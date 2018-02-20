@@ -1,1 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    /*The box-sizing property is used to tell the browser what the sizing properties (width and height) should include border-box.*/
+    box-sizing: border-box;
+    /*reset Chrome user agent styles*/
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-before: 0px;
+    -webkit-padding-after: 0px;
+    -webkit-padding-start: 0px;
+    -webkit-padding-end: 0px;
 
+}
+
+body {
+    font-size: 16px;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    background-color: #2196f3;
+    padding: 15px;
+}
+
+nav ul {
+    float: right;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    padding-right: 15px;
+}
+
+header {
+    background: url("images/aqueduct-banner.jpg") no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+
+header h1 {
+    text-align: center;
+    padding-top: 20%;
+    color: white;
+    font-size: 3rem;
+}
+
+/*
+main {
+    background-color: #FFFFFF;
+}
+*/
+
+section {
+    background-color: #FFFFFF;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 100%;
+}
+
+section.skills {
+    background-color: #F4F3F5;
+}
+
+.section-container {
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section.contact ul {
+    text-align: center;
+}
+
+section.contact li {
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+footer {
+    text-align: center;
+    background-color: #6ec6ff;
+}
