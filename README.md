@@ -6,9 +6,8 @@ Portfolio for Ellie Grebowski, full stack web developer.
 Desktop:
 
 ![Desktop](https://github.com/EGrebowski/portfolio/blob/master/images/github-images/screen-shot-1.png)
-![Desktop](https://github.com/EGrebowski/bias-balanced-news-api-fullstack-capstone/blob/master/github-images/screen-shot-2.png)
-![Desktop](https://github.com/EGrebowski/bias-balanced-news-api-fullstack-capstone/blob/master/github-images/screen-shot-3.png)
-![Desktop](https://github.com/EGrebowski/bias-balanced-news-api-fullstack-capstone/blob/master/github-images/screen-shot-4.png)
+![Desktop](https://github.com/EGrebowski/portfolio/blob/master/images/github-images/screen-shot-2.png)
+![Desktop](https://github.com/EGrebowski/portfolio/blob/master/images/github-images/screen-shot-3.png)
 
 
 ## Use Case
