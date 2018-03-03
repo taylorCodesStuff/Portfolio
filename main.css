@@ -73,7 +73,6 @@ header {
 
 header h1 {
     text-align: right;
-    /*    padding-top: 200px;*/
     color: white;
     font-size: 2rem;
     font-family: 'Libre Franklin', sans-serif;
@@ -140,17 +139,6 @@ section.skills .skills-container {
     text-align: center;
 }
 
-
-/*
-section.skills .skills-container h6 {
-    font-family: 'Libre Franklin', sans-serifx;
-    font-size: 1.2rem;
-    margin-bottom: 1rem;
-    padding-bottom: .3rem;
-    border-bottom: 2px solid #25945C;
-}
-*/
-
 section.skills .skills-container img {
     padding-left: 1.2rem;
     padding-right: 1.2rem;
@@ -188,7 +176,6 @@ section.projects .project-container li {
     padding-left: 6px;
     padding-right: 6px;
     margin-bottom: 7px;
-    /*    background-color: #ffc107;*/
     border: 2px solid #FBA332;
     font-family: 'Libre Franklin', sans-serif;
 }
