@@ -5,10 +5,7 @@ Portfolio for Ellie Grebowski, full stack web developer.
 ## Screenshots
 Desktop:
 
-![Desktop](https://github.com/EGrebowski/portfolio/blob/master/images/github-images/screen-shot-1.png)
-![Desktop](https://github.com/EGrebowski/portfolio/blob/master/images/github-images/screen-shot-2.png)
-![Desktop](https://github.com/EGrebowski/portfolio/blob/master/images/github-images/screen-shot-3.png)
-
+![Desktop](https://github.com/EGrebowski/portfolio/blob/master/images/github-images/screen-shot-full.png)
 
 ## Use Case
 This app provides viewers an overview of skills and projects for Ellie Grebowski.
