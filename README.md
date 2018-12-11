@@ -1,6 +1,6 @@
-# Ellie Grebowski Portfolio
+# Taylor Hammons Portfolio
 
-Portfolio for Ellie Grebowski, full stack web developer.
+Portfolio for Taylor Hammons, Software Developer.
 
 ## Screenshots
 Desktop:
