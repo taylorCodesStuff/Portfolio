@@ -65,8 +65,12 @@ nav li a {
     color: white;
 }
 
+.fas {
+    padding-right: 5px;
+}
+
 nav li a:hover {
-    border-bottom: 3px solid #FBA332;
+    border-bottom: 3px solid #5b94de;
 }
 
 header {
