@@ -6,7 +6,7 @@ Portfolio for Taylor Hammons, Software Developer.
 Desktop:
 
 ![Desktop](images/portfolio-image-1.png)
-
+(images/portfolio-image-2.png)
 ## Use Case
 This app provides viewers an overview of skills and projects for Ellie Grebowski.
 
