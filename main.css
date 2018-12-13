@@ -28,7 +28,6 @@ nav {
     padding: 15px;
     top: 0;
     z-index: 1000;
-    /* justify-content: center; */
 }
 
 .nav-name {
@@ -50,7 +49,6 @@ nav ul {
 }
 
 nav ul {
-    /* float: right; */
     list-style: none;
     width: 100%;
     text-align: center;
@@ -104,14 +102,6 @@ header h1 {
     color: white;
     font-size: 2rem;
     font-family: 'Libre Franklin', sans-serif;
-
-    /* text-align: right;
-    color: white;
-    font-size: 2rem;
-    font-family: 'Libre Franklin', sans-serif;
-    position: absolute;
-    bottom: 1rem;
-    right: 1rem; */
 }
 
 section {
