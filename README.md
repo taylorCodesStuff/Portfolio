@@ -6,7 +6,6 @@ Portfolio for Taylor Hammons, Software Developer.
 Desktop:
 
 ![Desktop](images/portfolio-image-1.png)
-<!-- ![Desktop](images/portfolio-image-2.png) -->
 ![Desktop](images/portfolio-image-4.png)
 ## Use Case
 This app provides viewers an overview of skills and projects for Taylor Hammons.
