@@ -9,10 +9,10 @@ Desktop:
 ![Desktop](images/portfolio-image-2.png)
 ![Desktop](images/portfolio-image-4.png)
 ## Use Case
-This app provides viewers an overview of skills and projects for Ellie Grebowski.
+This app provides viewers an overview of skills and projects for Taylor Hammons.
 
 ## Working Prototype
-You can access a working prototype of the app at [https://egrebowski.github.io/portfolio/](https://egrebowski.github.io/portfolio/).
+You can access a working prototype of the app at [https://taylorcodesstuff.github.io/Portfolio-2/](https://taylorcodesstuff.github.io/Portfolio-2/).
 
 ## Technical
 This app is built using HTML, CSS, JavaScript, and jQuery.
