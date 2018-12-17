@@ -11,7 +11,7 @@ Desktop:
 This app provides viewers an overview of skills and projects for Taylor Hammons.
 
 ## Working Prototype
-You can access a working prototype of the app at [https://taylorcodesstuff.github.io/Portfolio-2/](https://taylorcodesstuff.github.io/Portfolio-2/).
+You can access a working prototype of the app at [https://taylorcodesstuff.github.io/Portfolio/](https://taylorcodesstuff.github.io/Portfolio/).
 
 ## Technical
 This app is built using HTML, CSS, JavaScript, and jQuery.
