@@ -154,7 +154,8 @@ section p {
     padding-top: 10px;
     font-size: 1rem;
     padding-bottom: 20px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    /* font-family: "Comic Sans MS", cursive, sans-serif; */
+    font-family: 'Libre Baskerville', serif;
 }
 
 section.skills .skills-container {
