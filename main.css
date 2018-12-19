@@ -32,8 +32,10 @@ nav {
 
 .nav-name {
     color: white;
+    font-size: 25px;
     font-size: 32px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    /* font-family: "Comic Sans MS", cursive, sans-serif; */
+    font-family: 'Shadows Into Light', cursive;
     text-align: center;
 }
 
@@ -108,15 +110,18 @@ section {
     display: block;
     clear: both;
     background-color: #FFFFFF;
-    padding-top: 6rem;
-    padding-bottom: 6rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
     width: 100%;
     font-size: .85rem;
 }
 
 section.about-me img {
     float: right;
-    padding-bottom: 30px;
+    /* padding-bottom: 30px; */
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 section.skills {
@@ -153,7 +158,11 @@ section p {
 }
 
 section.skills .skills-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
     width: 100%;
+
     background-color: #FFFFFF;
     margin-bottom: 1rem;
     padding-left: 1rem;
@@ -163,10 +172,16 @@ section.skills .skills-container {
     text-align: center;
 }
 
+figcaption {
+    font-size: 1.5em;
+    color: #5b94de;
+}
+
 section.skills .skills-container img {
     padding-left: 1.2rem;
     padding-right: 1.2rem;
     padding-bottom: 1rem;
+    max-width: 100%;
 }
 
 section.projects .project-container {
