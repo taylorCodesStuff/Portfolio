@@ -34,7 +34,7 @@ nav {
     color: white;
     font-size: 25px;
     font-size: 32px;
-    /* font-family: "Comic Sans MS", cursive, sans-serif; */
+    
     font-family: 'Shadows Into Light', cursive;
     text-align: center;
 }
@@ -154,7 +154,7 @@ section p {
     padding-top: 10px;
     font-size: 1rem;
     padding-bottom: 20px;
-    /* font-family: "Comic Sans MS", cursive, sans-serif; */
+    
     font-family: 'Libre Baskerville', serif;
 }
 
